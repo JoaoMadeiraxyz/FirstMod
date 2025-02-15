@@ -1,6 +1,6 @@
 {
   "model": {
     "type": "minecraft:model",
-    "model": "firstmod:item/alexandrite"
+    "model": "firstmod:block/raw_alexandrite_block"
   }
 }
